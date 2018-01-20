@@ -1,0 +1,58 @@
+.black-text {    
+  color: black;
+  
+}  
+h1 {    
+  font-family: Merriweather;    font-size: 48px;
+  text-align: center;
+
+}  
+h2 {    
+  font-family: Merriweather;    font-size: 24px;
+  text-align: center;
+
+} 
+
+ul {    
+  font-size: 16px;    
+  font-family: Merriweather; 
+  text-align: justify;
+}  
+p {    
+  font-size: 24px;    
+  font-family: Monospace; 
+  text-align: justify;
+}  
+.image {    
+  width: 100%;
+}
+
+.box1 {
+  background-color: rgb(210, 210, 210);
+  border-style: solid;
+  border-color: grey;
+  border-width: 0px ;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  box-shadow: 10px 5px 5px grey;
+  max-width:1080px;
+  margin:0 auto;
+  }
+.box2 { 
+  display:flex;
+  justify-content:center;
+  margin-left:10px;
+  margin-right:10px ;
+  width: 100%;
+  border-style: solid;  
+  border-color: grey;  
+  border-width: 0px;  
+}
+.box3 { 
+  max-width:864px;
+  margin:0 auto;
+  border-style: solid;  
+  border-width: 0px; 
+  padding-right: 10%;
+  padding-left: 10%;
+ }
